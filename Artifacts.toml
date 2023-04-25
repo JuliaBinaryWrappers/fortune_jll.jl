@@ -1,0 +1,143 @@
+[[fortune]]
+arch = "aarch64"
+git-tree-sha1 = "badbad2332b53f95a05b4d46a079fb50c8d48823"
+os = "macos"
+
+    [[fortune.download]]
+    sha256 = "5a57feef527ae0f57c0e297dda01f787fbd6b2c0970931128459a9f2f85c4802"
+    url = "https://github.com/JuliaBinaryWrappers/fortune_jll.jl/releases/download/fortune-v1.0.0+0/fortune.v1.0.0.aarch64-apple-darwin.tar.gz"
+[[fortune]]
+arch = "aarch64"
+git-tree-sha1 = "01a980aa76b40ccddc085868a75c67c098ff1347"
+libc = "glibc"
+os = "linux"
+
+    [[fortune.download]]
+    sha256 = "46e8f0bc6653b1cd8726948a98db5bd464ad1c9f0b55fd2be81f263fecfcae5b"
+    url = "https://github.com/JuliaBinaryWrappers/fortune_jll.jl/releases/download/fortune-v1.0.0+0/fortune.v1.0.0.aarch64-linux-gnu.tar.gz"
+[[fortune]]
+arch = "aarch64"
+git-tree-sha1 = "01a980aa76b40ccddc085868a75c67c098ff1347"
+libc = "musl"
+os = "linux"
+
+    [[fortune.download]]
+    sha256 = "46e8f0bc6653b1cd8726948a98db5bd464ad1c9f0b55fd2be81f263fecfcae5b"
+    url = "https://github.com/JuliaBinaryWrappers/fortune_jll.jl/releases/download/fortune-v1.0.0+0/fortune.v1.0.0.aarch64-linux-musl.tar.gz"
+[[fortune]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "e244a1db5d98537f9a9615346ee93c88985ea98c"
+libc = "glibc"
+os = "linux"
+
+    [[fortune.download]]
+    sha256 = "62c3f8e2eddf3719b6e89b3cb59e00a468cba0739e5959dbf0b3d36095e66517"
+    url = "https://github.com/JuliaBinaryWrappers/fortune_jll.jl/releases/download/fortune-v1.0.0+0/fortune.v1.0.0.armv6l-linux-gnueabihf.tar.gz"
+[[fortune]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "e244a1db5d98537f9a9615346ee93c88985ea98c"
+libc = "musl"
+os = "linux"
+
+    [[fortune.download]]
+    sha256 = "62c3f8e2eddf3719b6e89b3cb59e00a468cba0739e5959dbf0b3d36095e66517"
+    url = "https://github.com/JuliaBinaryWrappers/fortune_jll.jl/releases/download/fortune-v1.0.0+0/fortune.v1.0.0.armv6l-linux-musleabihf.tar.gz"
+[[fortune]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "b396c5af22ade646845b5c6037f09f959cb29742"
+libc = "glibc"
+os = "linux"
+
+    [[fortune.download]]
+    sha256 = "34a0b7c40d6f5fddb9d049fa8b563196831474366b985eebae4d50b1f542b546"
+    url = "https://github.com/JuliaBinaryWrappers/fortune_jll.jl/releases/download/fortune-v1.0.0+0/fortune.v1.0.0.armv7l-linux-gnueabihf.tar.gz"
+[[fortune]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "b396c5af22ade646845b5c6037f09f959cb29742"
+libc = "musl"
+os = "linux"
+
+    [[fortune.download]]
+    sha256 = "34a0b7c40d6f5fddb9d049fa8b563196831474366b985eebae4d50b1f542b546"
+    url = "https://github.com/JuliaBinaryWrappers/fortune_jll.jl/releases/download/fortune-v1.0.0+0/fortune.v1.0.0.armv7l-linux-musleabihf.tar.gz"
+[[fortune]]
+arch = "i686"
+git-tree-sha1 = "dc8cd1de192859bf5807ced3691d8bc031c04cd1"
+libc = "glibc"
+os = "linux"
+
+    [[fortune.download]]
+    sha256 = "26e375d2ab5785496c1d0d1f652021c2bf05dec01824e3fa28ac4918f77d5951"
+    url = "https://github.com/JuliaBinaryWrappers/fortune_jll.jl/releases/download/fortune-v1.0.0+0/fortune.v1.0.0.i686-linux-gnu.tar.gz"
+[[fortune]]
+arch = "i686"
+git-tree-sha1 = "dc8cd1de192859bf5807ced3691d8bc031c04cd1"
+libc = "musl"
+os = "linux"
+
+    [[fortune.download]]
+    sha256 = "26e375d2ab5785496c1d0d1f652021c2bf05dec01824e3fa28ac4918f77d5951"
+    url = "https://github.com/JuliaBinaryWrappers/fortune_jll.jl/releases/download/fortune-v1.0.0+0/fortune.v1.0.0.i686-linux-musl.tar.gz"
+[[fortune]]
+arch = "i686"
+git-tree-sha1 = "29ee3971a2f83a35f9f191a73fc807524f396d7f"
+os = "windows"
+
+    [[fortune.download]]
+    sha256 = "05a04618a82d9ed3bf75637edf00e9414061db3a1e7044dc58d451862a4fc299"
+    url = "https://github.com/JuliaBinaryWrappers/fortune_jll.jl/releases/download/fortune-v1.0.0+0/fortune.v1.0.0.i686-w64-mingw32.tar.gz"
+[[fortune]]
+arch = "powerpc64le"
+git-tree-sha1 = "f62c5603d5606d95b96126b682fe597a3345fb00"
+libc = "glibc"
+os = "linux"
+
+    [[fortune.download]]
+    sha256 = "f8a228262d052ee5fc34df08bfeb8deae8ca5fcb440316d228f90b3c44307829"
+    url = "https://github.com/JuliaBinaryWrappers/fortune_jll.jl/releases/download/fortune-v1.0.0+0/fortune.v1.0.0.powerpc64le-linux-gnu.tar.gz"
+[[fortune]]
+arch = "x86_64"
+git-tree-sha1 = "711e4fb29fc1a023b992f205874efbb2ac95beb6"
+os = "macos"
+
+    [[fortune.download]]
+    sha256 = "d324d7c897f8a14eb108c3fdfa8dc35908c8abf832247835bf56c70eadf57688"
+    url = "https://github.com/JuliaBinaryWrappers/fortune_jll.jl/releases/download/fortune-v1.0.0+0/fortune.v1.0.0.x86_64-apple-darwin.tar.gz"
+[[fortune]]
+arch = "x86_64"
+git-tree-sha1 = "6fb5d9e9b740cebb923a9197a7bfaedf55982169"
+libc = "glibc"
+os = "linux"
+
+    [[fortune.download]]
+    sha256 = "0c231ef25b28f9215c11e8bdde5ab7f034731e9d594f5bbff340242cffb13c3f"
+    url = "https://github.com/JuliaBinaryWrappers/fortune_jll.jl/releases/download/fortune-v1.0.0+0/fortune.v1.0.0.x86_64-linux-gnu.tar.gz"
+[[fortune]]
+arch = "x86_64"
+git-tree-sha1 = "6fb5d9e9b740cebb923a9197a7bfaedf55982169"
+libc = "musl"
+os = "linux"
+
+    [[fortune.download]]
+    sha256 = "0c231ef25b28f9215c11e8bdde5ab7f034731e9d594f5bbff340242cffb13c3f"
+    url = "https://github.com/JuliaBinaryWrappers/fortune_jll.jl/releases/download/fortune-v1.0.0+0/fortune.v1.0.0.x86_64-linux-musl.tar.gz"
+[[fortune]]
+arch = "x86_64"
+git-tree-sha1 = "b168d050981edf1fba55507f2d9786ab13568c5b"
+os = "freebsd"
+
+    [[fortune.download]]
+    sha256 = "57dfdec8ebac578708f461f473af14f91815504b885beab2e4729370845f275d"
+    url = "https://github.com/JuliaBinaryWrappers/fortune_jll.jl/releases/download/fortune-v1.0.0+0/fortune.v1.0.0.x86_64-unknown-freebsd.tar.gz"
+[[fortune]]
+arch = "x86_64"
+git-tree-sha1 = "1b6fc8c1db288e4f0b9b1e32b43e661e7a3a55bf"
+os = "windows"
+
+    [[fortune.download]]
+    sha256 = "c9e2df9a5f935ead7a2cffcbe5b6ba338ba27c1083caa94d0e90fe4e035cb4fd"
+    url = "https://github.com/JuliaBinaryWrappers/fortune_jll.jl/releases/download/fortune-v1.0.0+0/fortune.v1.0.0.x86_64-w64-mingw32.tar.gz"
